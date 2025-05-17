@@ -25,11 +25,11 @@ body {
 	margin: 32px auto;
 	border-radius: 16px;
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.1);
-}
-*/
+}32/
 
 
 /* Mobile Devices */
+@media (max-width: 576px){
 .main-cards{
 	display: flex;
 	flex-direction: column;
